@@ -1,0 +1,134 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+body{
+    background-color: #CCAACD;
+}
+.registro{
+    margin-left: 30;
+    display: flex;
+    justify-content: initial;
+}
+.menu{
+    padding: 30px;
+    background-color: #dccfdd;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h2{
+    margin-right: 200px;
+}
+
+a{
+    margin-right: 100px;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    margin-left: 120px;
+}
+
+.conteudo{
+    position: absolute;
+    bottom: 380px;
+    right: 440px;
+}
+
+p{
+    font-size: 25px;
+}
+
+.h{
+    font-size: 80px;
+}
+
+.mewton{
+    position: absolute;
+    bottom: 300px;
+    margin-left: 100px;
+
+}
+
+.dados{
+
+    position: absolute;
+    bottom: 100px;
+}
+
+.pokemon{
+    
+    position: absolute;
+    margin-left: 120px;
+    height: 500px;
+    bottom: 0px;
+}
+
+.dado{
+    margin-left: 120px;
+    height: 400px;
+}
+
+.btn{
+   position: absolute;
+   margin-left: 1035px;
+   margin-top: 520px;
+   background-color: #dccfdd;
+   font-size: 30px;
+   border-radius: 10px;
+   padding: 20px;
+}
+
+
+.sobre{
+    position: absolute;
+    padding-top: 750px;
+    font-size: 50px;
+    
+
+}
+
+.sobre_txt{
+    position: absolute;
+    padding-top: 900px;
+    font-size: 50px;
+    margin-left: 50px;
+    
+
+}
+
+hr{
+ background-color: #dccfdd;
+}
+
+.sobre_conteudo{
+   margin-left: 900px;
+}
+
+.sobre_txt{
+    margin-left: 500px;
+}
+
+.psobre{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.psobrep{
+    margin-left: 390px;
+    font-size: 30px;
+    color: #dccedd;
+}
+
+
+
+footer{
+    margin-top: 1150px;
+    
+    
+}
